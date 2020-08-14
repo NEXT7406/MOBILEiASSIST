@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">GPA</string>
+    <string name="display1">GPA Calculator</string>
+    <string name="display2">Subject</string>
+    <string name="display3">Credit</string>
+    <string name="display4">Grade</string>
+    <string name="display5">Subject 1</string>
+    <string name="display6">Subject 2</string>
+    <string name="display7">Subject 3</string>
+    <string name="display8">Subject 4</string>
+    <string name="display9">Home</string>
+    <string name="display10">Calculate</string>
+    <string-array name="Credit">
+        <item>0.0</item>
+        <item>1.0</item>
+        <item>2.0</item>
+        <item>3.0</item>
+        <item>4.0</item>
+    </string-array>
+
+    <string-array name="Grade">
+        <item>Grade</item>
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+    <string name="display11">Your GPA is</string>
+    <string name="display12">Home</string>
+    <string name="display13">Save</string>
+    <string name="display14">Save my GPA</string>
+    <string name="display15">Enter Title</string>
+    <string name="display16">save</string>
+    <string name="display17">Saved History</string>
+    <string name="display18">Untitle 01</string>
+    <string name="display19">Untitle 02</string>
+    <string name="display20">Untitle 03</string>
+
+</resources>

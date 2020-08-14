@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#000000</color>
+    <color name="colorText">#fec63d</color>
+    <color name="colorBtn">#000000</color>
+    <color name="colorBtnTxt">#fec63d</color>
+    <color name="colorBtnTxt2">#000000</color>
+    <color name="colorBtn2">#FFFFFF</color>
+    <color name="colorTextTextPersonName">#000000</color>
+    <color name="colorTextPersonName">#000000</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+</resources>
