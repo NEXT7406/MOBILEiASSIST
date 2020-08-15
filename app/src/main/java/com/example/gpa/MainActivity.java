@@ -56,25 +56,25 @@ public class MainActivity extends AppCompatActivity {
 
         Spinner myspinner4 = (Spinner) findViewById(R.id.spinner6);
         ArrayAdapter<String> myAdapter4=new ArrayAdapter<String>(MainActivity.this,android.R.layout.simple_spinner_dropdown_item,
-                getResources().getStringArray(R.array.Credit));
+                getResources().getStringArray(R.array.Grade));
         myAdapter4.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         myspinner4.setAdapter(myAdapter4);
 
         Spinner myspinner5 = (Spinner) findViewById(R.id.spinner7);
         ArrayAdapter<String> myAdapter5=new ArrayAdapter<String>(MainActivity.this,android.R.layout.simple_spinner_dropdown_item,
-                getResources().getStringArray(R.array.Credit));
+                getResources().getStringArray(R.array.Grade));
         myAdapter5.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         myspinner5.setAdapter(myAdapter5);
 
         Spinner myspinner6 = (Spinner) findViewById(R.id.spinner8);
         ArrayAdapter<String> myAdapter6=new ArrayAdapter<String>(MainActivity.this,android.R.layout.simple_spinner_dropdown_item,
-                getResources().getStringArray(R.array.Credit));
+                getResources().getStringArray(R.array.Grade));
         myAdapter6.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         myspinner6.setAdapter(myAdapter6);
 
         Spinner myspinner7 = (Spinner) findViewById(R.id.spinner9);
         ArrayAdapter<String> myAdapter7=new ArrayAdapter<String>(MainActivity.this,android.R.layout.simple_spinner_dropdown_item,
-                getResources().getStringArray(R.array.Credit));
+                getResources().getStringArray(R.array.Grade));
         myAdapter7.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         myspinner7.setAdapter(myAdapter7);
 
