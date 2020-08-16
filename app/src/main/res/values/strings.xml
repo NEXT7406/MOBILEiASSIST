@@ -15,6 +15,90 @@
     <string name="today">Today</string>
     <string name="about_paragraph">GPA means Grade Point Average. The GPA is a system of judging a student’s performance and it followed throughout the world.If a student seeking admission to graduate studies has grades in a different system he or she should clearly mention that GPA system does not exist and provide details on the system. In the event of a system different from the usual GPA system, some universities may ask for a detailed method of evaluation of the scores with their scales</string>
     <string name="about_paragraph2">In such case consult the Registrar or controller of examination of the University for an official evaluation to be included along with the transcripts. It is recommended to send your rank certification or official average score of class/ toppers grades etc..to ease the difference between GPA and your system.GPA is one of the most important factors to get admission in a good college.
-
 Each course is given a certain number of “units” or “credits”, depending on the content of the course. In secondary school, most course carry the same number of units, but this is not true at the college level.</string>
+    <string name="msge1">Target Calculator</string>
+    <string name="msge2">CA Marks</string>
+    <string name="msge3">Out of</string>
+    <string name="msge4">Desired Grade</string>
+    <string name="msge5">calculate</string>
+    <string name="msge6">CA Marks</string>
+    <string name="msge7">Out of</string>
+    <string name="msge8">desired grade</string>
+    <string name="msge9">Final Weight(%)</string>
+    <string name="msge10">Clear</string>
+
+
+    <string name="page_name">Marking Calculator</string>
+    <string name="ass1">Assignment 01:- </string>
+    <string name="ass2">Assignment 02:- </string>
+    <string name="mid_marks">Mid marks:- </string>
+    <string name="final_marks">Final marks:- </string>
+    <string name="btn_cal">Calculate</string>
+
+    <string name="page_name2">Your marks</string>
+    <string name="ca_marks">CA marks :-</string>
+    <string name="total_marks">Total marks :-</string>
+    <string name="btn_save">SAVE</string>
+
+    <string name="page_name3">Save your Data</string>
+    <string name="file_name">File name :-</string>
+    <string name="id">Id :-</string>
+    <string name="btn_add">ADD DATA</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="btn_delete">DELETE</string>
+    <string name="btn_view">VIEW ALL</string>
+
+    <string name="page_name4">Save your Data</string>
+    <string name="id2">Id :-</string>
+    <string name="display1">Id :- 01</string>
+    <string name="display2">File name :- Year1,MC</string>
+    <string name="display3">File name :- Year1,ICS</string>
+    <string name="display4">Id :- 02</string>
+
+
+
+
+
+    <string name="display1_gpa">GPA Calculator</string>
+    <string name="display2_gpa">Subject</string>
+    <string name="display3_gpa">Credit</string>
+    <string name="display4_gpa">Grade</string>
+    <string name="display5">Subject 1</string>
+    <string name="display6">Subject 2</string>
+    <string name="display7">Subject 3</string>
+    <string name="display8">Subject 4</string>
+    <string name="display9">Home</string>
+    <string name="display10">Calculate</string>
+    <string-array name="Credit">
+        <item>0.0</item>
+        <item>1.0</item>
+        <item>2.0</item>
+        <item>3.0</item>
+        <item>4.0</item>
+    </string-array>
+
+    <string-array name="Grade">
+        <item>Grade</item>
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+    <string name="display11">Your GPA is</string>
+    <string name="display12">Home</string>
+    <string name="display13">Save</string>
+    <string name="display14">Save my GPA</string>
+    <string name="display15">Enter Title</string>
+    <string name="display16">save</string>
+    <string name="display17">Saved History</string>
+    <string name="display18">Untitle 01</string>
+    <string name="display19">Untitle 02</string>
+    <string name="display20">Untitle 03</string>
 </resources>
